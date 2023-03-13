@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Aksi Mosi";
+    src: url(fonts/aAksiMosi.woff);
+}
+@font-face {
+    font-family: "Bring Heart";
+    src: url(fonts/BringHeart.woff);
+}
+h1{
+    font-size: 6em;
+    font-family: "Aksi Mosi";
+}
+h2{
+    font-size: 6em;
+    font-family: "Bring Heart"; 
+}
